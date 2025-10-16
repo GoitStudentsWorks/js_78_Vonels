@@ -6,7 +6,7 @@
   "homepage": "https://github.com/Vonels/js_78_Vonels",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Educonf-project/",
+    "build": "vite build --base=/js_78_Vonels/",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist",
     "predeplay": "npm run build"
