@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/Vonels/Educonf-project",
+  "homepage": "https://github.com/Vonels/js_78_Vonels",
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/Educonf-project/",
